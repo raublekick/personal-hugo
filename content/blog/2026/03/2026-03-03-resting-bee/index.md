@@ -1,6 +1,6 @@
 ---
 date: '2026-03-03'
-draft: true
+draft: false
 title: 'Resting Longhorn Bee'
 slug: 'resting-longhorn-bee'
 tags: ['bees']

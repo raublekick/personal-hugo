@@ -1,6 +1,6 @@
 ---
 date: '2026-03-06'
-draft: true
+draft: false
 title: 'Can a Frog Copyright Code?'
 slug: 'can-a-frog-copyright-code'
 tags: ['video games', 'photography', 'coding', 'ai']
