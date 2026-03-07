@@ -9,5 +9,5 @@ TZ = "America/Phoenix"
 publish = "public"
 command = """\
   git config core.quotepath false && \
-  hugo build --gc --minify --baseURL "${URL}"
+  hugo build --gc --minify --baseURL "https://lightraking.netlify.app"
   """
