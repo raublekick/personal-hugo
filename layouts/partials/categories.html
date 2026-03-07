@@ -1,0 +1,8 @@
+{{- $categories := .Params.categories -}}
+{{- if $categories -}}
+  {{- $lastIndex := sub (len $categories) 1 -}}
+  {{- range $index, $category := $categories -}}
+    <a href="/categories/{{ $category | urlize }}"> {{ $category }}</a>
+    {{- if ne $index $lastIndex }}&nbsp;·&nbsp;{{ end -}}
+  {{- end -}}
+{{- end -}}

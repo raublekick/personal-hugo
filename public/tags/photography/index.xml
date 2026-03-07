@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Photography on Light, Raking</title>
+    <link>//localhost:1313/tags/photography/</link>
+    <description>Recent content in Photography on Light, Raking</description>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can a Frog Copyright Code?</title>
+      <link>//localhost:1313/blog/2026/03/can-a-frog-copyright-code/</link>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/2026/03/can-a-frog-copyright-code/</guid>
+      <description>&lt;p&gt;A few interesting links about AI and coding, a game I finished, and some miscellany&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;photography&#34;&gt;Photography&lt;/h2&gt;
+&lt;p&gt;🔗 &lt;a href=&#34;https://www.flickr.com/photos/outdooralabama/albums/72177720332343463/&#34;&gt;2026 Outdoor Alabama Photo Contest&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ADCNR hopes you enjoy the winning images of the 2026 Outdoor Alabama Photo Contest. The annual contest highlights some of the best photographers in the state as well as the beauty of Alabama’s natural landscapes and wildlife. Contest sponsors include Alabama State Parks, the Alabama Conservation Enforcement Officers Association and the Alabama Tourism Department.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
