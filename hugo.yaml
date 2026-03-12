@@ -12,7 +12,7 @@ enableEmoji: true
 # pygmentsUseClasses: true
 # define which sections to include on the homepage
 # https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#posts-from-only-one-foldersection-visible-on-home-page
-mainsections: ["blog"]
+mainsections: ['blog', 'gallery']
 
 # https://gohugo.io/configuration/minify/
 minify:
